@@ -1,1 +1,0 @@
-# cardinalgeo.github.io Hello
